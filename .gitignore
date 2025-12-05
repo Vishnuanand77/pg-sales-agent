@@ -1,2 +1,4 @@
 config/.env
 data/encrypted_transcripts.enc
+.cursorindexingignore
+.specstory/
